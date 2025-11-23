@@ -66,13 +66,13 @@ En cuanto al software, se busca:
   * Fortalezas/habilidades: manejo de herramientas tecnológicas, resiliencia, pensamiento crítico, empatía, aprendizaje rápido, honestidad.
 
 ### Responsabilidades
-Sebastián Palacio Manrique
-Responsabilidades:
+### Sebastián Palacio Manrique
+ Responsabilidades:
 *	Diseño del layout.
 *	Desarrollo de planeación de demanda y costos.
 *	Realiza el pseudocódigo y organiza los datos.
-*	Realiza el codigo
-Rafael José Baca Muñoz 
+*	Realiza el codigo.
+### Rafael José Baca Muñoz 
 Responsabilidades:
 *	Implementación de la gestión y control de solicitudes.
 *	Documentación
