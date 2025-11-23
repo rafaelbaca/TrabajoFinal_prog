@@ -68,16 +68,16 @@ En cuanto al software, se busca:
 ### Responsabilidades
 Sebastián Palacio Manrique
 Responsabilidades:
-•	Diseño del layout.
-•	Desarrollo de planeación de demanda y costos.
-•	Realiza el pseudocódigo y organiza los datos.
-•	Realiza el codigo
+*	Diseño del layout.
+*	Desarrollo de planeación de demanda y costos.
+*	Realiza el pseudocódigo y organiza los datos.
+*	Realiza el codigo
 Rafael José Baca Muñoz 
 Responsabilidades:
-•	Implementación de la gestión y control de solicitudes.
-•	Documentación
-•	Diseño del flujo del sistema.
-•	Realiza el código.
+*	Implementación de la gestión y control de solicitudes.
+*	Documentación
+*	Diseño del flujo del sistema.
+*	Realiza el código.
 
 
 
