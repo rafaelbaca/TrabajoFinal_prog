@@ -1,4 +1,4 @@
-anual de Usuario – Siruma Resort
+Manual de Usuario – Siruma Resort
 1. Nombre del proyecto
 
 Siruma Resort – Sistema de Gestión del Hotel
